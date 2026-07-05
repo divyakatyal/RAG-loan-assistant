@@ -46,3 +46,16 @@ Instead of relying solely on the language model's internal knowledge, the assist
 - Summarize common characteristics of approved loans.
 
 ## Project Structure
+├── app.py
+├── Training Dataset.csv
+├── requirements.txt
+└── README.md
+
+
+## Future Improvements
+
+- Conversation memory
+- Streaming responses
+- Source citation highlighting
+- Hybrid keyword + vector retrieval
+- Web interface for interactive use
