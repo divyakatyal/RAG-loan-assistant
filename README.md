@@ -47,8 +47,11 @@ Instead of relying solely on the language model's internal knowledge, the assist
 
 ## Project Structure
 ├── app.py
+
 ├── Training Dataset.csv
+
 ├── requirements.txt
+
 └── README.md
 
 
