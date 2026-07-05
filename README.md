@@ -8,6 +8,8 @@ This project combines vector embeddings, semantic retrieval, and large language 
 
 Instead of relying solely on the language model's internal knowledge, the assistant retrieves the most relevant records from the dataset before generating a response, improving factual accuracy and reducing hallucinations.
 
+This project was built to explore how LLMs can answer domain-specific questions more accurately by retrieving relevant context instead of relying solely on pretrained knowledge.
+
 ## Features
 
 - Natural language question answering
