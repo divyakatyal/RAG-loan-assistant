@@ -1,6 +1,6 @@
 # Loan Application RAG Assistant
 
-A Retrieval-Augmented Generation (RAG) assistant that answers natural language questions about loan application data using semantic search and OpenAI's GPT-3.5.
+An LLM-powered Retrieval-Augmented Generation (RAG) assistant that answers natural language questions about loan application data using semantic search and OpenAI's GPT-3.5.
 
 ## Overview
 
